@@ -1,0 +1,16 @@
+gl_code,category,budget_amt,actual_amt,variance_amt,variance_pct,notes
+6010,Salaries & Wages,485000,488200,3200,0.7,
+6020,Payroll Taxes & Benefits,142000,145800,3800,2.7,
+6100,Office Rent,68000,68000,0,0.0,
+6110,Office Operations,18500,21400,2900,15.7,minor overage
+6200,Technology & SaaS,42000,58300,16300,38.8,see context
+6210,Data & Research Subscriptions,55000,54200,-800,-1.5,
+6300,Legal Fees,35000,72500,37500,107.1,see context
+6310,Audit & Tax,15000,68000,53000,353.3,see context
+6320,Compliance & Regulatory,12000,11400,-600,-5.0,
+6400,Travel & Entertainment,28000,19800,-8200,-29.3,light travel month
+6410,Conferences & Events,8000,0,-8000,-100.0,no events this month
+6500,Marketing & PR,12000,14200,2200,18.3,
+6600,Professional Services,22000,18500,-3500,-15.9,
+6700,Insurance,9500,9500,0,0.0,
+6900,Other G&A,6500,8100,1600,24.6,

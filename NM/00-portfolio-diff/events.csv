@@ -1,0 +1,14 @@
+company,ticker,event_type,event_date,source,summary
+Helios Robotics,HLRB,departure,2026-05-22,internal_note,VP Engineering departed; took 12 engineers with him to a competitor
+Helios Robotics,HLRB,customer_loss,2026-05-24,sales_team,Lost top-3 customer (industrial OEM) at renewal
+Bramble AI,BMBL,funding,2026-05-22,techcrunch,Closed $40M Series B led by Sequoia
+Bramble AI,BMBL,hire,2026-05-25,linkedin,Hired Head of Sales from a unicorn fintech
+Solstice Health,SLST,news,2026-05-21,wsj,Regulatory inquiry opened into billing practices
+Riverstone Labs,RVST,customer_win,2026-05-23,press_release,Signed three Fortune 500 enterprise contracts in one week
+Pelican Pay,PELP,customer_loss,2026-05-26,internal_note,Lost a mid-sized merchant cluster (~25 accounts) to competitor
+Tessera Cloud,TSRA,hire,2026-05-23,linkedin,Hired new CFO from a public SaaS company
+Marlin Security,MRLN,news,2026-05-24,industry_blog,Featured as leader in Gartner MQ
+Linden Realty Tech,LNDN,departure,2026-05-22,linkedin,CFO departed; no announced successor
+Garnet Education,GRNT,news,2026-05-25,edweek,State-level policy change creates headwind in two key markets
+Quanta Logistics,QNTL,hire,2026-05-23,linkedin,Hired SVP of Operations from a logistics unicorn
+Cobalt Bio,COBL,news,2026-05-24,fierce_biotech,Phase 2 trial readout pushed back one quarter

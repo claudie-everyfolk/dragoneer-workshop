@@ -1,0 +1,16 @@
+company,ticker,revenue_ttm_musd,headcount,runway_months,growth_rate_qoq,last_round_size_musd,last_round_date,key_exec_count,customer_count
+Northwind Analytics,NWND,42.0,180,22,0.18,55,2025-03-12,8,140
+Helios Robotics,HLRB,18.5,95,14,0.22,30,2024-11-04,6,38
+Cobalt Bio,COBL,8.2,62,30,0.09,45,2025-01-22,7,12
+Riverstone Labs,RVST,28.0,140,18,0.15,40,2024-09-15,8,85
+Pelican Pay,PELP,75.0,310,28,0.12,120,2025-02-08,11,920
+Marlin Security,MRLN,22.0,110,16,0.27,35,2024-12-01,7,64
+Tessera Cloud,TSRA,95.0,420,36,0.20,200,2025-04-19,12,1600
+Solstice Health,SLST,12.0,80,12,0.08,25,2024-08-30,6,42
+Verity Compliance,VRTY,33.0,160,24,0.16,60,2025-02-25,9,210
+Bramble AI,BMBL,6.5,48,20,0.34,22,2025-03-30,5,18
+Quanta Logistics,QNTL,55.0,240,19,0.11,80,2024-10-18,9,310
+Pikepoint Energy,PIKE,40.0,200,26,0.07,75,2025-01-10,8,55
+Garnet Education,GRNT,15.0,90,15,0.13,28,2024-12-22,6,180
+Linden Realty Tech,LNDN,20.0,120,17,0.10,38,2025-02-14,7,75
+Mosswood Foods,MSWD,30.0,170,21,0.06,42,2024-11-28,7,98

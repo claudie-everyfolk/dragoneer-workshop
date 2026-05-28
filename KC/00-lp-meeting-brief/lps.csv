@@ -1,0 +1,5 @@
+lp_id,lp_name,lp_type,commitment_usd_m,first_close_year,last_meeting_date,primary_contact,key_interests,sensitivities
+LP-001,Maple Ridge Pension,Public Pension,75,2019,2026-03-14,Karen Whitfield,"AI infrastructure; downside protection; fee transparency","Concentration risk; high-volatility growth bets; anything that looks like crypto exposure"
+LP-002,Atlas Endowment,University Endowment,40,2021,2026-02-28,David Hartmann,"Vertical SaaS; healthcare IT; long-hold compounders; ESG reporting","Heavy consumer tech exposure; rapid mark-up cycles without realized exits"
+LP-003,Harborline Family Office,Family Office,25,2020,2026-04-09,Priya Anand,"Founder-led companies; AI-native businesses; co-investment opportunities","Fund-of-funds layering; passive minority stakes without governance rights"
+LP-004,Northwind Sovereign,Sovereign Wealth,150,2018,2026-01-22,Hisham Al-Rasheed,"Geographic diversification (especially APAC); energy transition; long-duration capital","Single-sector concentration; US-only deployment; ESG reputational risk"

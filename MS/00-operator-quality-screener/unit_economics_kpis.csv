@@ -1,0 +1,36 @@
+ticker,metric,prior_year_q1,current_q1,yoy_change_bps_or_pct,trend_24mo,notes
+NRTH,gross_margin_pct,71.2,70.1,-110bps,stable_to_down,"Compression matches CEO commentary; flagged enterprise contract drag is real and time-bounded"
+NRTH,net_revenue_retention_pct,118,121,+3pp,improving,"Improving despite competitive discounting environment"
+NRTH,operating_margin_pct,22.4,23.1,+70bps,improving,"Operating leverage continues despite GM compression"
+NRTH,rule_of_40,52,55,+3pp,improving,
+NRTH,cac_payback_months,14,13,-1mo,improving,
+VLTC,gross_margin_pct,64.5,60.7,-380bps,deteriorating,"CEO described as 'trending well'; data does not support this"
+VLTC,net_revenue_retention_pct,108,99,-9pp,deteriorating,"Fell below 100; rare and material"
+VLTC,operating_margin_pct,12.1,8.4,-370bps,deteriorating,
+VLTC,rule_of_40,38,28,-10pp,deteriorating,
+VLTC,cac_payback_months,21,29,+8mo,deteriorating,
+KPRA,gross_margin_pct,68.0,69.5,+150bps,improving,
+KPRA,net_revenue_retention_pct,113,109,-4pp,mixed,"SMB churn pulling number down; enterprise cohort retention strong per 10-K footnote"
+KPRA,operating_margin_pct,15.2,17.4,+220bps,improving,"Matches CFO commentary"
+KPRA,rule_of_40,44,46,+2pp,improving,
+KPRA,cac_payback_months,16,15,-1mo,stable_to_improving,
+BRDG,gross_margin_pct,74.1,74.3,+20bps,stable,
+BRDG,net_revenue_retention_pct,124,126,+2pp,improving,"Confirms CEO claim renewal rate up 80bps"
+BRDG,operating_margin_pct,18.2,15.6,-260bps,intentional_decline,"R&D reinvestment matches disclosed plan"
+BRDG,rule_of_40,48,49,+1pp,stable,
+BRDG,cac_payback_months,12,12,0,stable,
+SOLN,gross_margin_pct,67.8,63.2,-460bps,deteriorating,"Not addressed on call"
+SOLN,net_revenue_retention_pct,131,114,-17pp,deteriorating,"Severe deterioration; not discussed on call"
+SOLN,operating_margin_pct,-18.4,-24.1,-570bps,deteriorating,
+SOLN,rule_of_40,42,29,-13pp,deteriorating,
+SOLN,cac_payback_months,18,26,+8mo,deteriorating,"Methodology change disclosed in 10-Q footnote"
+MERI,gross_margin_pct,58.4,62.1,+370bps,improving,
+MERI,net_revenue_retention_pct,102,108,+6pp,improving,
+MERI,operating_margin_pct,4.1,8.2,+410bps,improving,"On track for stated 10pct exit-Q4 target"
+MERI,rule_of_40,22,34,+12pp,improving,
+MERI,cac_payback_months,24,19,-5mo,improving,
+TGRA,gross_margin_pct,69.4,64.8,-460bps,deteriorating,
+TGRA,net_revenue_retention_pct,111,98,-13pp,deteriorating,"Fell below 100"
+TGRA,operating_margin_pct,14.2,6.1,-810bps,deteriorating,
+TGRA,rule_of_40,40,18,-22pp,deteriorating,
+TGRA,cac_payback_months,17,28,+11mo,deteriorating,"Comparability impacted by recurring revenue redefinition per 10-Q"

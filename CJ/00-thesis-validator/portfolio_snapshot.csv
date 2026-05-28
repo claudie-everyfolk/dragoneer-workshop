@@ -1,0 +1,8 @@
+company,theme_tag,sub_vertical,stage,initial_check_date,initial_check_size_mm,current_arr_mm,arr_growth_yoy_pct,net_revenue_retention_pct,gross_margin_pct,headcount,headcount_growth_yoy_pct,enterprise_logos_signed_last_12mo,avg_contract_value_k,go_to_market_motion,notes
+Eveline.ai,vertical-AI-for-legal,healthcare-legal,Series C,2024-06-15,40,38.5,142,131,78,180,55,22,210,enterprise-direct,Vertical play on healthcare contracts; expert flagged positively
+Lumen Legal,vertical-AI-for-legal,biglaw-contract-review,Series B,2023-11-02,25,12.8,38,94,71,140,18,4,340,enterprise-direct,Selling to BigLaw; pilot conversion has been slow
+ClauseIQ,vertical-AI-for-legal,general-contract-review,Series B,2024-02-20,18,8.2,71,108,68,95,42,9,165,product-led-and-sales,Marketing-heavy; thin deployment signal
+Northwind Tax AI,vertical-AI-for-finance,tax-compliance,Series B,2023-09-10,30,22.4,89,118,74,110,33,14,225,enterprise-direct,Adjacent vertical-AI play; not in legal scope
+Helix Counsel,vertical-AI-for-legal,workflow-platform,Seed,2025-10-30,4,0.0,0,0,0,12,0,0,0,pre-revenue,Pre-product per expert; founders ex-Cravath
+Stellaris Research,vertical-AI-for-legal,legal-research,Series A,2024-05-12,12,5.6,52,89,66,55,12,3,180,enterprise-direct,Mid-market legal research; Westlaw/Lexis pressure
+Bridgepoint Claims,vertical-AI-for-insurance,insurance-claims,Series B,2024-08-22,22,18.1,95,124,72,88,28,11,205,enterprise-direct,Adjacent insurance-legal play

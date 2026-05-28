@@ -1,0 +1,17 @@
+item_id,received_at,source,type,company,summary,urgency,raw_sender
+INT-001,2026-05-28 07:12,founder_email,portfolio_update,Helios Bioworks,Q2 burn ran 18% over plan due to delayed FDA feedback; founder requesting bridge conversation,high,maya.chen@heliosbio.com
+INT-002,2026-05-28 07:34,market_clip,competitive_signal,Tessera Logistics,WSJ piece on competitor Northwind raising $200M Series D at $1.4B post-money,medium,research-desk-internal
+INT-003,2026-05-28 07:41,board_preread,governance,Vellum Analytics,Board deck for Friday's meeting flags CFO departure and revised FY27 guidance down 12%,high,corp-sec@vellum.io
+INT-004,2026-05-28 08:02,investor_question,LP_inquiry,Fund III,Sovereign LP asking for written view on AI-infrastructure exposure across the book by EOW,high,relations@swf-partner.com
+INT-005,2026-05-28 08:15,founder_email,intro_request,Quill Robotics,Founder offering warm intro to two pre-seed robotics companies he's advising,low,jordan@quillrobotics.com
+INT-006,2026-05-28 08:21,coinvestor_note,deal_signal,Aperture Semi,Co-investor Sequoia hinting they may lead the bridge round Aperture is putting together,medium,partner-friend@sequoia
+INT-007,2026-05-28 08:30,market_clip,regulatory,Helios Bioworks,FDA published updated guidance on accelerated approval pathway for the indication Helios is targeting,high,research-desk-internal
+INT-008,2026-05-28 08:44,founder_email,hiring_ask,Cobalt Energy,Founder asking for help recruiting a VP Product; needs candidate intros within 2 weeks,medium,raj@cobalt.energy
+INT-009,2026-05-28 08:51,internal_memo,diligence_update,Stratos AI,Diligence team's interim memo: technical reference calls came back stronger than expected; pricing-power concerns remain,medium,diligence@firm
+INT-010,2026-05-28 09:03,market_clip,competitive_signal,Vellum Analytics,TechCrunch: competitor Datafold launching directly competing product line next month,medium,research-desk-internal
+INT-011,2026-05-28 09:12,founder_email,strategic_question,Tessera Logistics,Founder asking whether to accept inbound acquisition interest at 3.2x revenue,high,priya@tessera.co
+INT-012,2026-05-28 09:18,investor_question,LP_inquiry,Fund II,Family-office LP asking for marks update on three specific Fund II names,medium,allocator@fo-client.com
+INT-013,2026-05-28 09:25,founder_email,personnel_change,Stratos AI,Co-founder/CTO confidentially considering departure; founder asking for partner-level conversation,high,danielle@stratos.ai
+INT-014,2026-05-28 09:33,coinvestor_note,deal_signal,Helios Bioworks,Existing investor a16z reaching out about co-leading the bridge,medium,partner-friend@a16z
+INT-015,2026-05-28 09:40,market_clip,market_thematic,Aperture Semi,Bloomberg analysis: TSMC capacity constraints pushing custom-silicon startups toward Samsung Foundry,medium,research-desk-internal
+INT-016,2026-05-28 09:47,founder_email,portfolio_update,Quill Robotics,Q2 results: 22% above plan; founder asking about Series B timing,low,jordan@quillrobotics.com

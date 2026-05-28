@@ -1,0 +1,11 @@
+date,partner,channel,post_text,engagement_impressions,engagement_reactions,worked
+2026-04-15,Partner A,LinkedIn,"Northwind shipped its 8,000th unit this quarter. The customer mix is now 60% repeat. More to come.",14200,189,Yes
+2026-04-22,Partner A,LinkedIn,"Thrilled to share Northwind's incredible momentum this quarter — truly game-changing work by an amazing team!",3100,42,No
+2026-03-30,Partner B,LinkedIn,"Larkspur dosed its first patient in the Phase 1 study of LRK-204 today. What's notable is the platform's ability to generate clinical candidates against historically intractable targets. Six months from IND to first patient.",22400,310,Yes
+2026-04-08,Partner C,LinkedIn,"Three new utility customers went live on Meridian this quarter. Each one starts as a single-site pilot and most expand within six months. This is the kind of integration that takes utilities from quarterly to monthly planning.",9800,154,Yes
+2026-05-02,Partner D,LinkedIn,"What does a coffee chain expansion look like in a tight consumer market? Hollow Oak just opened its 40th location. All within 200 miles of existing units. The density strategy is the actual story.",11600,201,Yes
+2026-04-18,Partner D,LinkedIn,"Congrats to the Sable team on a huge milestone!",1800,28,No
+2026-03-12,Partner B,LinkedIn,"Excited to announce Larkspur's revolutionary new platform!",2200,35,No
+2026-05-10,Partner A,Twitter/X,"Worth reading: [Bloomberg piece on logistics automation]",6700,98,Yes
+2026-04-25,Partner C,LinkedIn,"Meridian's grid-balancing API is now in production with three utilities. What this changes: capacity planning shifts from quarterly to monthly.",8900,142,Yes
+2026-05-15,Partner D,LinkedIn,"12 new locations is small. The fact that Hollow Oak picked them all within driving distance of their roastery is the actual story — and the unit economics that follow.",10300,178,Yes

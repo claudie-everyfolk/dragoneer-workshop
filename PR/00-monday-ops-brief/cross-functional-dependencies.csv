@@ -1,0 +1,10 @@
+id,requester_function,requester,blocked_on_function,blocked_on,what_is_needed,requested_date,needed_by,status
+DEP-01,Investment,Helen K.,Compliance,Yara M.,Pre-clearance ruling on Project Lattice related-party situation,2026-05-12,2026-05-26,Open
+DEP-02,IR,Devon R.,Compliance,Yara M.,Marketing review sign-off on Q2 LP letter revisions,2026-05-19,2026-05-27,Open
+DEP-03,IR,Devon R.,Legal/Compliance,Yara M.,Final legal review of Tranche 3 capital call notice,2026-05-21,2026-05-27,Open
+DEP-04,Finance,Sasha P.,Investment,Marcus T.,Updated operating model assumptions for Calderon Logistics covenant analysis,2026-05-18,2026-05-25,Overdue
+DEP-05,Investment,Marcus T.,Finance,Sasha P.,Preliminary covenant breach scenarios for Wednesday restructuring call,2026-05-20,2026-05-26,Open
+DEP-06,Compliance,Yara M.,Operations,President & COO,Board sub-committee meeting confirmation for personal trading policy review,2026-05-15,2026-05-22,Overdue
+DEP-07,IR,Devon R.,Investment,Helen K.,Talking points for Cornerstone LP call re: Calderon exposure,2026-05-22,2026-05-28,Open
+DEP-08,Operations,President & COO,Compliance,Yara M.,Approved data-handling boundaries for AI tooling pilot,2026-05-10,2026-05-30,Open
+DEP-09,Finance,Sasha P.,Operations,President & COO,Sign-off on revised budget refresh timeline,2026-05-23,2026-05-29,Open

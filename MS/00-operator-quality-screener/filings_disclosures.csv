@@ -1,0 +1,24 @@
+ticker,filing_type,date,event,detail,materiality
+NRTH,10-K,2026-02-14,annual_report,"Restated zero items from prior year. Auditor unchanged for 7 consecutive years. Working capital reconciliation matches investor day presentation within 0.4 percent.",low_routine
+NRTH,8-K,2026-03-02,exec_change,"Promoted internal VP of Engineering to CTO following 9 month succession plan disclosed in prior proxy.",low_routine
+NRTH,proxy,2026-04-10,comp,"CEO compensation 73 percent tied to 3-year rolling ROIC and free cash flow per share. No single-year performance gates.",positive_signal
+VLTC,10-Q,2026-04-22,segment_change,"Reclassified two product lines into a new segment. Prior period comparable revenue restated downward by 6 percent in old segment.",elevated_concern
+VLTC,8-K,2026-02-08,exec_change,"CFO Peter Lansing previously announced retirement in 2027 now extended indefinitely per board request.",elevated_concern
+VLTC,8-K,2026-01-19,legal,"Disclosed informal SEC inquiry into revenue recognition practices Q3 2024 through Q2 2025. Company states matter is non-material.",elevated_concern
+VLTC,proxy,2026-03-30,comp,"CEO compensation 81 percent tied to current year revenue. No multi-year metrics.",concern
+KPRA,10-K,2026-02-20,annual_report,"Disclosed elevated SMB churn risk explicitly in risk factors. Provided cohort retention data by customer size segment for the first time.",positive_signal
+KPRA,8-K,2026-03-15,acquisition,"Announced 240M acquisition of a complementary product company. Paid 4.1x trailing revenue. Funded with 60 percent stock 40 percent cash.",mixed
+KPRA,proxy,2026-04-05,comp,"CEO compensation 55 percent tied to 3-year ROIC 30 percent to revenue growth 15 percent to ESG goals.",positive_signal
+BRDG,10-K,2026-02-28,annual_report,"Disclosed multi-year R&D reinvestment plan with explicit margin trajectory through 2029.",positive_signal
+BRDG,8-K,2026-04-12,buyback,"Authorized 300M repurchase program. Filing notes repurchases only when stock trades below a stated intrinsic value range.",positive_signal
+BRDG,proxy,2026-03-22,comp,"CEO compensation 68 percent tied to 3-year metrics. Compensation flat YoY despite stock appreciation.",positive_signal
+SOLN,S-1/A,2025-09-10,ipo,"Priced IPO at 24 dollars per share. Disclosed CAC payback of 18 months with 'expected to improve to 12 months by Year 2 post listing.'",baseline
+SOLN,10-Q,2026-04-30,quarterly,"CAC payback now 26 months versus 18 months at IPO. Footnote notes change in calculation methodology.",concern
+SOLN,8-K,2026-03-04,exec_change,"Chief Revenue Officer departed for 'personal reasons' after 14 months in role. No successor named.",elevated_concern
+MERI,10-K,2026-02-12,annual_report,"Confirmed achievement of all three operational milestones laid out in 2024 turnaround plan filed as Exhibit 99.1.",positive_signal
+MERI,8-K,2026-01-30,buyback,"Repurchased 2.4 percent of shares outstanding at average price of 31.40. Stock currently trades at 37.10.",positive_signal
+MERI,proxy,2026-03-18,comp,"CEO compensation 70 percent tied to multi-year metrics. Voluntary 30 percent CEO salary reduction in 2024 not yet restored.",positive_signal
+TGRA,8-K,2026-03-25,exec_change,"CFO Dan Powers departed effective immediately. Interim CFO appointed. No reason given.",elevated_concern
+TGRA,8-K,2026-04-02,guidance,"Withdrew prior FY guidance.",elevated_concern
+TGRA,10-Q,2026-04-30,quarterly,"Changed definition of 'recurring revenue' to include certain one-time professional services. Prior period comparable not restated.",elevated_concern
+TGRA,proxy,2026-03-30,comp,"CEO received special retention grant of 8.5M RSUs vesting in 12 months. Filed three weeks before guidance withdrawal.",elevated_concern

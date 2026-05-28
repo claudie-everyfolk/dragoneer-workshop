@@ -1,0 +1,80 @@
+{
+  "week_of": "2026-05-25",
+  "meetings": [
+    {
+      "day": "Monday",
+      "time": "09:00",
+      "title": "Leadership Huddle",
+      "attendees": ["President & COO", "Helen K.", "Sasha P.", "Devon R.", "Yara M."],
+      "agenda": [
+        "Weekly status round-robin",
+        "Calderon Logistics situation review",
+        "Decision: Project Lattice exclusivity request"
+      ],
+      "decision_point": true,
+      "related_functions": ["Investment", "Finance", "Compliance"]
+    },
+    {
+      "day": "Tuesday",
+      "time": "11:00",
+      "title": "Investment Committee — Project Lattice deep dive",
+      "attendees": ["IC voting members", "Helen K.", "deal team"],
+      "agenda": [
+        "Diligence status update",
+        "Related-party pre-clearance discussion",
+        "Vote: extend exclusivity 30 days"
+      ],
+      "decision_point": true,
+      "related_functions": ["Investment", "Compliance"]
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:00",
+      "title": "Calderon Logistics restructuring call",
+      "attendees": ["Marcus T.", "Sasha P.", "outside counsel", "company CFO"],
+      "agenda": [
+        "Covenant breach scenarios",
+        "Operational restructuring options",
+        "Decision: support continued ops vs. consider sale"
+      ],
+      "decision_point": true,
+      "related_functions": ["Investment", "Finance"]
+    },
+    {
+      "day": "Wednesday",
+      "time": "14:00",
+      "title": "Fund VI Tranche 3 capital call sign-off",
+      "attendees": ["President & COO", "Devon R.", "general counsel"],
+      "agenda": [
+        "Final legal review of capital call notice",
+        "Decision: approve send to LPs"
+      ],
+      "decision_point": true,
+      "related_functions": ["IR", "Compliance"]
+    },
+    {
+      "day": "Thursday",
+      "time": "13:00",
+      "title": "Cornerstone LP — 1:1 update",
+      "attendees": ["President & COO", "Devon R."],
+      "agenda": [
+        "Address Calderon Logistics exposure concerns",
+        "Walk through portfolio diversification"
+      ],
+      "decision_point": false,
+      "related_functions": ["IR", "Investment"]
+    },
+    {
+      "day": "Friday",
+      "time": "10:00",
+      "title": "Board sub-committee — Personal Trading Policy",
+      "attendees": ["President & COO", "Yara M.", "two board members"],
+      "agenda": [
+        "Review proposed policy updates",
+        "Approve for full board ratification"
+      ],
+      "decision_point": true,
+      "related_functions": ["Compliance"]
+    }
+  ]
+}

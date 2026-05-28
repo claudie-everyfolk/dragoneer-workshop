@@ -1,0 +1,16 @@
+date,company,signal_type,role_title,name_initials,prior_company,location,notes
+2026-05-22,RouteIQ,hire,Head of Product,J.K.,Cargomatic,San Francisco,Senior poach from direct competitor
+2026-05-23,Freightline,departure,VP of Sales,M.R.,(internal),Chicago,Left for RouteIQ
+2026-05-20,LoadLogic,departure,CEO,S.T.,(internal),Boston,Stepped down; interim COO running
+2026-05-19,Cargomatic,hire,VP of AI,A.P.,Google,Mountain View,New role created; signals AI roadmap acceleration
+2026-05-21,ShipSense,hire,Chief Revenue Officer,L.B.,Salesforce,Austin,First CRO; signals GTM scale-up
+2026-05-22,RouteIQ,hire,VP of Engineering,D.W.,Uber Freight,New York,Adds infra depth post-Series C
+2026-05-18,Freightline,departure,Head of Customer Success,K.H.,(internal),Chicago,Second senior departure in a month
+2026-05-23,Portlink,hire,VP of Finance,R.S.,Stripe,Remote,Suggests fundraise or financial restructuring
+2026-05-20,DockFlow,layoff,Multiple,—,(internal),San Francisco,~60% headcount reduction in US
+2026-05-21,Cargomatic,hire,Head of Enterprise Sales,T.G.,Snowflake,New York,Supports Fortune 500 push
+2026-05-22,LoadLogic,departure,VP of Product,N.O.,(internal),Boston,Third senior departure in 30 days
+2026-05-19,ShipSense,hire,Director of Partnerships,B.M.,Flexport,Austin,Aligned with 3PL partnership news
+2026-05-23,Freightline,departure,Director of Marketing,E.V.,(internal),Chicago,Fourth senior departure this quarter
+2026-05-20,RouteIQ,hire,SVP of Operations,C.L.,FedEx,Atlanta,Operational scale hire post-Series C
+2026-05-21,Portlink,departure,Chief Product Officer,F.A.,(internal),Remote,Concerning given recent low NPS

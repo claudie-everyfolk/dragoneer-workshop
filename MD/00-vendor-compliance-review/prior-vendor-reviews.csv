@@ -1,0 +1,13 @@
+review_date,vendor_name,use_case,function,risk_rating,decision,key_conditions,reviewer
+2024-02-14,Aurora Notes AI,Meeting summarization for IC calls,Investment Team,Medium,Approved with conditions,"Logs exported quarterly; no client identifiers in prompts; 90-day pilot",GC
+2024-04-02,Quanta Signal,Quantitative signal generation on public filings,Research,High,Conditional pilot,"Outputs are research aids only — never client-facing; human review required before any IC memo; isolated tenancy",GC
+2024-05-19,Brevia Docs,Contract redlining for fund docs,Legal/Compliance,Low,Approved,"Internal use only; SOC 2 Type II current; no firm data used for training",Associate GC
+2024-07-08,Polaris Compare,Comparable-company analysis for portfolio research,Research,Medium,Approved with conditions,"30-day model change notice; prompt logs retained 5 years; no client identifiers",GC
+2024-09-22,Vertex Outreach,Marketing copy generation for LP communications,Investor Relations,High,Hold pending information,"Marketing rule exposure unresolved; awaiting vendor confirmation on output review workflow",GC
+2024-10-30,Mosaic Diligence,Diligence document Q&A,Investment Team,High,Conditional pilot,"MNPI risk — isolated tenancy required; deal-room data not commingled; deletion certification on termination",GC
+2024-12-05,Atlas Sentiment,News sentiment scoring on portfolio companies,Research,Low,Approved,"Public data only; no firm data uploaded; standard MSA accepted",Associate GC
+2025-01-18,Helia Models,Custom model fine-tuning on firm research,Research,Critical,Declined,"Training-on-firm-data prohibition violated; vendor unwilling to amend; data residency unconfirmed",GC
+2025-02-26,Lumen Drafting,Draft IC memo generation from research notes,Investment Team,High,Hold pending information,"Books-and-records implications not addressed; log retention only 12 months; SOC 2 stale",GC
+2025-03-11,Cipher Code Review,Internal code review assistant for portfolio operations,Operations,Medium,Approved with conditions,"No client or portco data in prompts; logs accessible to firm; sub-processor list disclosed",Associate GC
+2025-04-09,Sentinel Compliance,Trade surveillance AI overlay,Compliance,Medium,Approved with conditions,"Read-only access; logs retained 5 years; integration audit annually",GC
+2025-05-02,Beacon Voice,Earnings call transcript summarization,Research,Low,Approved,"Public data only; outputs treated as research aids; no IC use without human review",Associate GC

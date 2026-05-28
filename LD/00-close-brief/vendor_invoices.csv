@@ -1,0 +1,18 @@
+vendor,invoice_date,amount,gl_code,gl_category,status,description
+Cravath Stearns,2026-05-04,42500,6300,Legal Fees,paid,Fund III LPA amendment work
+Cravath Stearns,2026-05-18,28000,6300,Legal Fees,paid,Portfolio co secondary review
+Hayes & Brock LLP,2026-05-22,2000,6300,Legal Fees,pending,General corporate matters
+Deloitte Audit,2026-05-08,52000,6310,Audit & Tax,paid,Annual audit final billing (timing shift from Q1)
+Deloitte Tax,2026-05-15,16000,6310,Audit & Tax,paid,K-1 prep services
+Snowflake,2026-05-01,18500,6200,Technology & SaaS,paid,Annual contract renewal landed this month
+Atlassian,2026-05-01,2800,6200,Technology & SaaS,paid,Monthly seats
+Microsoft,2026-05-01,9200,6200,Technology & SaaS,paid,Monthly enterprise
+PitchBook,2026-05-12,14500,6210,Data & Research Subscriptions,paid,Quarterly billing
+Bloomberg Terminal,2026-05-01,28000,6210,Data & Research Subscriptions,paid,Monthly seats x14
+S&P Capital IQ,2026-05-10,11700,6210,Data & Research Subscriptions,paid,Monthly subscription
+Hudson Yards Properties,2026-05-01,68000,6100,Office Rent,paid,Monthly NYC office
+WeWork (SF),2026-05-01,4200,6110,Office Operations,paid,SF satellite seats
+ADP,2026-05-15,8400,6020,Payroll Taxes & Benefits,paid,Payroll processing + benefits admin
+Marsh McLennan,2026-05-01,9500,6700,Insurance,paid,D&O + E&O monthly
+Edelman PR,2026-05-20,14200,6500,Marketing & PR,disputed,Scope dispute on LP letter campaign
+Quill Marketing,2026-05-25,8900,6200,Technology & SaaS,pending,Unfamiliar vendor — first invoice

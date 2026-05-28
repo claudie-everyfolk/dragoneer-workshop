@@ -1,0 +1,8 @@
+company,period,arr_usd_m,arr_growth_yoy_pct,net_revenue_retention_pct,headcount,headcount_change_qoq_pct,gross_margin_pct,last_raise_usd_m,last_raise_date,notes
+Freightline,Q1 2026,142,40,108,520,2,74,55,2024-09-15,Growth strong but NRR slipping vs prior 118; churn risk emerging
+Cargomatic,Q1 2026,98,52,124,410,8,71,40,2025-03-20,Strong NRR; AI VP hire and enterprise wins reinforce trajectory
+LoadLogic,Q1 2026,61,18,95,280,-4,68,30,2023-11-10,NRR below 100 indicates net contraction; leadership turmoil compounds
+RouteIQ,Q1 2026,87,68,132,360,15,72,80,2026-05-23,Just closed Series C; growth accelerating
+ShipSense,Q1 2026,74,28,115,310,6,76,25,2024-06-05,Beat consensus; partnership-driven growth materializing
+Portlink,Q1 2026,52,12,98,240,1,69,18,2026-05-23,Flat extension round; NRR just below 100; CPO departure concerning
+DockFlow,Q1 2026,22,-15,82,90,-58,61,12,2023-08-22,Winding down US ops; effectively distressed

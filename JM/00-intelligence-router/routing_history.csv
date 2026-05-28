@@ -1,0 +1,15 @@
+past_item_id,date,company,type,routed_to,action_taken,outcome_note
+HIST-201,2026-04-12,Helios Bioworks,portfolio_update,Sarah Okafor,respond_directly,Sarah handled directly; founder satisfied
+HIST-202,2026-04-15,Tessera Logistics,strategic_question,Priya Sundaresan,respond_directly,Priya advised founder to decline inbound
+HIST-203,2026-04-18,Stratos AI,diligence_update,David Reinhardt,discuss_at_partner_meeting,Led to deeper pricing-power workstream
+HIST-204,2026-04-21,Aperture Semi,competitive_signal,David Reinhardt,monitor_only,No action needed; logged
+HIST-205,2026-04-24,Fund III,LP_inquiry,Sarah Okafor + David Reinhardt,respond_directly,Co-drafted; Sarah owned send
+HIST-206,2026-04-28,Quill Robotics,portfolio_update,Marcus Lin,respond_directly,Routine quarterly check-in
+HIST-207,2026-05-02,Vellum Analytics,governance,David Reinhardt,discuss_at_partner_meeting,Sarah looped in as observer
+HIST-208,2026-05-05,Cobalt Energy,hiring_ask,Marcus Lin,respond_directly,Marcus made two intros within a week
+HIST-209,2026-05-08,Helios Bioworks,regulatory,Sarah Okafor,discuss_at_partner_meeting,Triggered thesis-update memo
+HIST-210,2026-05-12,Fund II,LP_inquiry,IR team (Priya supervised),forward_with_note,Standard quarterly handoff
+HIST-211,2026-05-15,Aperture Semi,deal_signal,David Reinhardt,respond_directly,Confirmed coinvestor interest; logged
+HIST-212,2026-05-19,Tessera Logistics,competitive_signal,Priya Sundaresan,monitor_only,Tracking Northwind competitive position
+HIST-213,2026-05-22,Stratos AI,personnel_change,David Reinhardt,respond_directly,Founder call same day; sensitive
+HIST-214,2026-05-24,Quill Robotics,intro_request,Marcus Lin,forward_with_note,Marcus assessed and declined intros politely

@@ -1,0 +1,67 @@
+{
+  "partners": [
+    {
+      "name": "Sarah Okafor",
+      "role": "Partner",
+      "primary_themes": ["healthcare", "biotech", "regulated industries"],
+      "portfolio_coverage": ["Helios Bioworks", "Vellum Analytics"],
+      "active_diligence": ["Helios Bioworks bridge round"],
+      "relationship_type": {
+        "Helios Bioworks": "board_director",
+        "Vellum Analytics": "board_observer"
+      },
+      "lp_relationships": ["sovereign_swf_partner"],
+      "notes": "Lead on biotech book. Owns LP relationship with sovereign LP asking about AI exposure — secondary on that question."
+    },
+    {
+      "name": "David Reinhardt",
+      "role": "Partner",
+      "primary_themes": ["AI infrastructure", "semiconductors", "developer tools"],
+      "portfolio_coverage": ["Aperture Semi", "Stratos AI", "Vellum Analytics"],
+      "active_diligence": ["Stratos AI Series C"],
+      "relationship_type": {
+        "Aperture Semi": "board_director",
+        "Stratos AI": "lead_diligence",
+        "Vellum Analytics": "board_observer"
+      },
+      "lp_relationships": [],
+      "notes": "Primary on the AI-infra thesis. Co-covers Vellum with Sarah — overlap is real, not redundant."
+    },
+    {
+      "name": "Priya Sundaresan",
+      "role": "Partner",
+      "primary_themes": ["logistics", "industrial tech", "supply chain"],
+      "portfolio_coverage": ["Tessera Logistics", "Cobalt Energy"],
+      "active_diligence": [],
+      "relationship_type": {
+        "Tessera Logistics": "board_director",
+        "Cobalt Energy": "board_observer"
+      },
+      "lp_relationships": ["family_office_client"],
+      "notes": "Closest to founder at Tessera — three-year relationship. Owns the family-office LP."
+    },
+    {
+      "name": "Marcus Lin",
+      "role": "Partner",
+      "primary_themes": ["robotics", "energy transition", "frontier hardware"],
+      "portfolio_coverage": ["Quill Robotics", "Cobalt Energy"],
+      "active_diligence": ["Cobalt Energy follow-on"],
+      "relationship_type": {
+        "Quill Robotics": "board_director",
+        "Cobalt Energy": "board_director"
+      },
+      "lp_relationships": [],
+      "notes": "Sources most robotics dealflow. Tight with Cobalt founder."
+    },
+    {
+      "name": "JM (you)",
+      "role": "Senior Partner",
+      "primary_themes": ["cross-portfolio synthesis", "LP relationships", "firm strategy"],
+      "portfolio_coverage": ["all"],
+      "active_diligence": [],
+      "relationship_type": {},
+      "lp_relationships": ["sovereign_swf_partner", "family_office_client"],
+      "notes": "Acts as router/escalation. Should NOT be primary owner on tactical items — flag if the agent tries to assign to JM by default."
+    }
+  ]
+}

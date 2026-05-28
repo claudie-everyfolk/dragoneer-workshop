@@ -1,0 +1,16 @@
+date,company,headline,source,sentiment,topic_tag
+2026-05-22,Freightline,Freightline announces 40% YoY ARR growth in Q1 update,TechCrunch,positive,financial
+2026-05-21,Cargomatic,Cargomatic launches AI-powered route optimization product,The Information,positive,product
+2026-05-20,LoadLogic,LoadLogic CEO steps down citing personal reasons,WSJ,negative,leadership
+2026-05-23,RouteIQ,RouteIQ closes $80M Series C led by Tiger,Axios,positive,fundraising
+2026-05-19,Freightline,Freightline customer churn rumors swirl after key account loss,The Information,negative,customer
+2026-05-22,ShipSense,ShipSense partners with major 3PL for embedded analytics,PR Newswire,positive,partnership
+2026-05-21,LoadLogic,LoadLogic loses second-largest customer to RouteIQ,The Information,negative,customer
+2026-05-18,Cargomatic,Cargomatic featured in Gartner Magic Quadrant as Leader,Gartner,positive,analyst
+2026-05-23,Portlink,Portlink raises Series B extension at flat valuation,PitchBook,neutral,fundraising
+2026-05-20,RouteIQ,RouteIQ poaches Head of Product from Cargomatic,LinkedIn News,neutral,leadership
+2026-05-22,ShipSense,ShipSense Q1 revenue grows 28% beating consensus,Bloomberg,positive,financial
+2026-05-19,DockFlow,DockFlow shuts down US operations citing market conditions,TechCrunch,negative,strategic
+2026-05-23,Freightline,Freightline VP Sales departs for competitor RouteIQ,LinkedIn News,negative,leadership
+2026-05-21,Portlink,Portlink customer satisfaction scores hit two-year low in survey,G2,negative,customer
+2026-05-22,Cargomatic,Cargomatic announces enterprise tier with 3 Fortune 500 wins,PR Newswire,positive,customer
